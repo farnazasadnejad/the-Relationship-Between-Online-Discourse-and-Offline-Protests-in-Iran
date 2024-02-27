@@ -6,7 +6,7 @@ from collections import defaultdict
 from datetime import datetime, timezone, timedelta
 import numpy as np
 
-# Sample data (replace this with your actual data)
+# Sample data 
 data = [
     # sut
   (datetime(2022, 10, 2, 22, 6, 48, tzinfo=timezone.utc), 'خوشبختانه برخی از دانشجویان دستگیر شده آزاد شده اند.\n\n@sut_tw'),
